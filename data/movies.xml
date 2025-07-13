@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie>
+        <id>1</id>
+        <title>The Dark Knight</title>
+        <year>2008</year>
+        <type>movie</type>
+        <duration>152 min</duration>
+        <synopsis>Batman debe enfrentar a su mayor enemigo en esta épica historia de heroísmo y caos.</synopsis>
+        <imdb_rating>9.0</imdb_rating>
+        <poster>https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg</poster>
+        <backdrop>https://image.tmdb.org/t/p/w1280/hqkIcbrOHL86UncnHIsHVcVmzue.jpg</backdrop>
+        <genres>
+            <genre>accion</genre>
+            <genre>crimen</genre>
+            <genre>drama</genre>
+        </genres>
+        <tmdb_id>155</tmdb_id>
+        <trailer_url>https://www.youtube.com/embed/EXeTwQWrcwY</trailer_url>
+    </movie>
+    
+    <movie>
+        <id>2</id>
+        <title>Inception</title>
+        <year>2010</year>
+        <type>movie</type>
+        <duration>148 min</duration>
+        <synopsis>Un ladrón que roba secretos corporativos mediante tecnología de sueños compartidos.</synopsis>
+        <imdb_rating>8.8</imdb_rating>
+        <poster>https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg</poster>
+        <backdrop>https://image.tmdb.org/t/p/w1280/s3TBrRGB1iav7gFOCNx3H31MoES.jpg</backdrop>
+        <genres>
+            <genre>accion</genre>
+            <genre>sci-fi</genre>
+            <genre>thriller</genre>
+        </genres>
+        <tmdb_id>27205</tmdb_id>
+        <trailer_url>https://www.youtube.com/embed/YoHD9XEInc0</trailer_url>
+    </movie>
+    
+    <movie>
+        <id>3</id>
+        <title>The Godfather</title>
+        <year>1972</year>
+        <type>movie</type>
+        <duration>175 min</duration>
+        <synopsis>La saga de la familia Corleone bajo el patriarca Vito Corleone.</synopsis>
+        <imdb_rating>9.2</imdb_rating>
+        <poster>https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg</poster>
+        <backdrop>https://image.tmdb.org/t/p/w1280/tmU7GeKVybMWFButWEGl2M4GeiP.jpg</backdrop>
+        <genres>
+            <genre>drama</genre>
+            <genre>crimen</genre>
+        </genres>
+        <tmdb_id>238</tmdb_id>
+        <trailer_url>https://www.youtube.com/embed/sY1S34973zA</trailer_url>
+    </movie>
+    
+    <movie>
+        <id>4</id>
+        <title>Pulp Fiction</title>
+        <year>1994</year>
+        <type>movie</type>
+        <duration>154 min</duration>
+        <synopsis>Historias entrelazadas de crimen y redención en Los Ángeles.</synopsis>
+        <imdb_rating>8.9</imdb_rating>
+        <poster>https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg</poster>
+        <backdrop>https://image.tmdb.org/t/p/w1280/4cDFJr4HnXN5AdPw4AKrmLlMWdO.jpg</backdrop>
+        <genres>
+            <genre>crimen</genre>
+            <genre>drama</genre>
+        </genres>
+        <tmdb_id>680</tmdb_id>
+        <trailer_url>https://www.youtube.com/embed/s7EdQ4FqbhY</trailer_url>
+    </movie>
+    
+    <movie>
+        <id>5</id>
+        <title>The Matrix</title>
+        <year>1999</year>
+        <type>movie</type>
+        <duration>136 min</duration>
+        <synopsis>Un hacker descubre que la realidad que conoce es una simulación controlada por máquinas.</synopsis>
+        <imdb_rating>8.7</imdb_rating>
+        <poster>https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg</poster>
+        <backdrop>https://image.tmdb.org/t/p/w1280/fNG7i7RqMErkcqhohV2a6cV1Ehy.jpg</backdrop>
+        <genres>
+            <genre>accion</genre>
+            <genre>sci-fi</genre>
+        </genres>
+        <tmdb_id>603</tmdb_id>
+        <trailer_url>https://www.youtube.com/embed/vKQi3bBA1y8</trailer_url>
+    </movie>
+</movies>

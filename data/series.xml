@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<series>
+    <show>
+        <id>6</id>
+        <title>Breaking Bad</title>
+        <year>2008</year>
+        <type>series</type>
+        <duration>5 temporadas</duration>
+        <synopsis>Un profesor de química se convierte en fabricante de metanfetaminas tras descubrir que tiene cáncer.</synopsis>
+        <imdb_rating>9.5</imdb_rating>
+        <poster>https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg</poster>
+        <backdrop>https://image.tmdb.org/t/p/w1280/eSzpy96DwBujGFj0xMbXBcGcfxX.jpg</backdrop>
+        <genres>
+            <genre>drama</genre>
+            <genre>crimen</genre>
+            <genre>thriller</genre>
+        </genres>
+        <tmdb_id>1396</tmdb_id>
+        <trailer_url>https://www.youtube.com/embed/HhesaQXLuRY</trailer_url>
+    </show>
+    
+    <show>
+        <id>7</id>
+        <title>Stranger Things</title>
+        <year>2016</year>
+        <type>series</type>
+        <duration>4 temporadas</duration>
+        <synopsis>Un grupo de niños descubre fuerzas sobrenaturales y experimentos secretos del gobierno.</synopsis>
+        <imdb_rating>8.7</imdb_rating>
+        <poster>https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg</poster>
+        <backdrop>https://image.tmdb.org/t/p/w1280/56v2KjBlU4XaOv9rVYEQypROD7P.jpg</backdrop>
+        <genres>
+            <genre>sci-fi</genre>
+            <genre>horror</genre>
+            <genre>drama</genre>
+        </genres>
+        <tmdb_id>66732</tmdb_id>
+        <trailer_url>https://www.youtube.com/embed/b9EkMc79ZSU</trailer_url>
+    </show>
+    
+    <show>
+        <id>8</id>
+        <title>Game of Thrones</title>
+        <year>2011</year>
+        <type>series</type>
+        <duration>8 temporadas</duration>
+        <synopsis>Nueve familias nobles luchan por el control del mítico continente de Westeros.</synopsis>
+        <imdb_rating>9.3</imdb_rating>
+        <poster>https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg</poster>
+        <backdrop>https://image.tmdb.org/t/p/w1280/suopoADq0k8YZr4dQXcU6pToj6s.jpg</backdrop>
+        <genres>
+            <genre>drama</genre>
+            <genre>accion</genre>
+            <genre>fantasia</genre>
+        </genres>
+        <tmdb_id>1399</tmdb_id>
+        <trailer_url>https://www.youtube.com/embed/rlR4PJn8b8I</trailer_url>
+    </show>
+    
+    <show>
+        <id>9</id>
+        <title>The Office</title>
+        <year>2005</year>
+        <type>series</type>
+        <duration>9 temporadas</duration>
+        <synopsis>Un mockumentary sobre la vida cotidiana de los empleados de oficina.</synopsis>
+        <imdb_rating>9.0</imdb_rating>
+        <poster>https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg</poster>
+        <backdrop>https://image.tmdb.org/t/p/w1280/7XhdNlNhIOXcOXpRmqNkx0rZhp2.jpg</backdrop>
+        <genres>
+            <genre>comedia</genre>
+            <genre>drama</genre>
+        </genres>
+        <tmdb_id>2316</tmdb_id>
+        <trailer_url>https://www.youtube.com/embed/LHOtME2DL4g</trailer_url>
+    </show>
+    
+    <show>
+        <id>10</id>
+        <title>The Crown</title>
+        <year>2016</year>
+        <type>series</type>
+        <duration>6 temporadas</duration>
+        <synopsis>La vida y el reinado de la Reina Isabel II contados a través de eventos históricos.</synopsis>
+        <imdb_rating>8.6</imdb_rating>
+        <poster>https://image.tmdb.org/t/p/w500/1M876KPjulVwppEpldhdc8V4o68.jpg</poster>
+        <backdrop>https://image.tmdb.org/t/p/w1280/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg</backdrop>
+        <genres>
+            <genre>drama</genre>
+            <genre>documentales</genre>
+        </genres>
+        <tmdb_id>1399</tmdb_id>
+        <trailer_url>https://www.youtube.com/embed/JWtnJjn6ng0</trailer_url>
+    </show>
+</series>
